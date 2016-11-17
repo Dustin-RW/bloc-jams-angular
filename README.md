@@ -1,9 +1,23 @@
 # Bloc-jams-angular
 Bloc-jams re-modified to use AngularJS.  _see_ [Bloc-jams](https://github.com/FrozenMeatloaf/bloc-jams)
 
-## Modifications
+## Coding Modifications
 
-![](assets/images/bloc-jams-angular-images/bj-angular-album.png?raw=true)
+**Bloc-jams routing page**
+
+<img src="app/assets/images/bloc-jams-angular-images/bj-angular-routing.png" width="600" height="400" />
+
+**Bloc-jams homepage**
+
+<img src="app/assets/images/bloc-jams-angular-images/bj-angular-homepage.png" width="600" height="400" />
+
+**Bloc-jams collection**
+
+<img src="app/assets/images/bloc-jams-angular-images/bj-angular-collection.png" width="600" height="400" />
+
+**Bloc-jams album**
+
+<img src="app/assets/images/bloc-jams-angular-images/bj-angular-album.png" width="600" height="400" />
 
 ## Grunt plugins
 
