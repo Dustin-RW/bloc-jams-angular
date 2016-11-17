@@ -3,7 +3,7 @@ Bloc-jams re-modified to use AngularJS.  _see_ [Bloc-jams](https://github.com/Fr
 
 ## Modifications
 
-![](images/bloc-jams-angular-images/bj-angular-album.png?raw=true)
+![](assets/images/bloc-jams-angular-images/bj-angular-album.png?raw=true)
 
 ## Grunt plugins
 
